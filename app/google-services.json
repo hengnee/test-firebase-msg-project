@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336742314071",
+    "firebase_url": "https://friendlychat-4c613.firebaseio.com",
+    "project_id": "friendlychat-4c613",
+    "storage_bucket": "friendlychat-4c613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336742314071:android:2b25a9f83bc2798d",
+        "android_client_info": {
+          "package_name": "com.example.henryvirus.testfirebasedatamsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336742314071-lh7dqbh5ut9u36ns3iamita73fv7ab7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqflfTM-geh6A9fetj-w_ynYduWKRAlyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
